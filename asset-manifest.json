@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hansdimaano.github.io/reactjs-portfolio/static/css/main.c080dcb0.css",
-    "main.js": "/hansdimaano.github.io/reactjs-portfolio/static/js/main.340667b8.js",
-    "static/js/373.ba4c7665.chunk.js": "/hansdimaano.github.io/reactjs-portfolio/static/js/373.ba4c7665.chunk.js",
-    "index.html": "/hansdimaano.github.io/reactjs-portfolio/index.html",
-    "main.c080dcb0.css.map": "/hansdimaano.github.io/reactjs-portfolio/static/css/main.c080dcb0.css.map",
-    "main.340667b8.js.map": "/hansdimaano.github.io/reactjs-portfolio/static/js/main.340667b8.js.map",
-    "373.ba4c7665.chunk.js.map": "/hansdimaano.github.io/reactjs-portfolio/static/js/373.ba4c7665.chunk.js.map"
+    "main.css": "/reactjs-portfolio/static/css/main.c080dcb0.css",
+    "main.js": "/reactjs-portfolio/static/js/main.5748e969.js",
+    "static/js/373.ba4c7665.chunk.js": "/reactjs-portfolio/static/js/373.ba4c7665.chunk.js",
+    "index.html": "/reactjs-portfolio/index.html",
+    "main.c080dcb0.css.map": "/reactjs-portfolio/static/css/main.c080dcb0.css.map",
+    "main.5748e969.js.map": "/reactjs-portfolio/static/js/main.5748e969.js.map",
+    "373.ba4c7665.chunk.js.map": "/reactjs-portfolio/static/js/373.ba4c7665.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c080dcb0.css",
-    "static/js/main.340667b8.js"
+    "static/js/main.5748e969.js"
   ]
 }
